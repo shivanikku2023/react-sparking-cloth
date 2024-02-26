@@ -1,0 +1,109 @@
+$text-color: green;
+.container-fluid {
+  .col-12 {
+    h3 {
+      color: $text-color;
+    }
+  }
+}
+.text-darkmagenta {
+  color: #900090 !important;
+}
+.text-darkmagenta:hover {
+  color: #ffaaff !important;
+  text-decoration: none;
+  color: brown !important;
+}
+.bg-darkmagenta {
+  background-color: #b300b3 !important;
+  border: 2px solid white !important;
+}
+.bg-very-darkmagenta {
+  background-color: #edb3ed !important;
+}
+.bg-lightmagenta {
+  background-color: #ffdaff;
+}
+.logo {
+  font-family: 'jokerman';
+  color: yellow;
+}
+
+.search-input {
+  padding: 4px 12px;
+  outline: none;
+  border: none;
+  background-color: #ffdaff;
+  border-radius: 10px 0px 0px 10px;
+  margin-right: -44px;
+}
+
+.search-input:focus {
+  padding: 4px 12px;
+  outline: none;
+  border: none;
+  background-color: white;
+  border-radius: 10px 0px 0px 10px;
+  margin-right: -44px;
+}
+
+.search-btn {
+  outline: none;
+  background-color: #e90be9;
+  color: white;
+  position: relative;
+  right: 16px;
+  border: none;
+  padding: 4px 7px;
+}
+
+.search-btn:hover {
+  outline: none;
+  background-color: brown;
+  color: white;
+  position: relative;
+  right: 16px;
+  border: none;
+  padding: 4px 7px;
+}
+
+button:hover {
+  background-color: white !important;
+  color: black !important;
+  border: 2px solid pink !important;
+  box-shadow: 3px 3px 5px black !important;
+}
+
+.starrating > input {
+  display: none;
+} /* Remove radio buttons */
+
+// .starrating > label:before {
+//   content: '\f005'; /* Star */
+//   margin: 2px;
+//   font-size: 2.2rem;
+//   font-family: 'Font Awesome';
+//   display: inline-block;
+// }
+
+.starrating label:before {
+  content: '\2605';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  font-size: 2.2rem !important;
+  margin: 0 10px;
+  display: inline;
+}
+
+.starrating > label {
+  color: #222222; /* Start color when not clicked */
+  cursor: pointer;
+}
+
+.starrating > input:checked ~ label {
+  color: #ffca08;
+} /* Set yellow color when star checked */
+
+.starrating > input:hover ~ label {
+  color: #ffca08;
+} /* Set yellow color when star hover */
