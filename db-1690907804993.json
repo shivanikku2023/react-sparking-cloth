@@ -1,0 +1,283 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lymio Casual Shirt for Smart Casual",
+      "description": "Style - Enhance your look by wearing this Casual Stylish Men shirt for a fun Smart Casual look.Thigh 16 WHAT YOU GET: Introduces Fancy and Trendy Kids Party Wear Dresses For Boys. Ideal For All Special Occasions. Comfortable Cotton Blend Fabric, Regular Fit and Easy to Wash at Home. The wrinkle free premium black slim fit Permapress trousers by Louis Philippe will add an edge to your style at every formal occasion. Engineered for essential performance benefits, these machine washable trousers pair well with a classic shirt and derbies to make you stay ahead of the curve.",
+      "imageUrl": "../assets/images/men-prod-1.png",
+      "thumbnailUrl": "../assets/images/men-prod-1.png",
+      "imgAltText": "Lymio Casual Shirt for Men",
+      "maxRetailPrice": 2000,
+      "discountPercent": 20,
+      "category": "Men",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Zolario 3 Piece Boys Clothing Dress",
+      "description": "5-6 years: Length 19.5, Sleeves 15.5, Chest 28, Shoulder 12.5, Pant length 27, Elastic Waist 25.5, Thigh 16 WHAT YOU GET: Introduces Fancy and Trendy Kids Party Wear Dresses For Boys. Ideal For All Special Occasions. Comfortable Cotton Blend Fabric, Regular Fit and Easy to Wash at Home.",
+      "imageUrl": "../assets/images/kid-prod-4.jpg",
+      "thumbnailUrl": "../assets/images/kid-prod-4.jpg",
+      "imgAltText": "Zolario 3 Piece Boys",
+      "maxRetailPrice": 2800,
+      "discountPercent": 10,
+      "category": "Kids",
+      "discountApplicable": 14,
+      "added": "1/18/2023",
+      "quantity": 10,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Preneum Women Suare Cotton Top",
+      "description": "Style: Kaftan || Length: Medium || Sleeves: Short Sleeve Fit Type: Regular Fit || 1 Kaftan Top. Featuring a harmonious blend of style and comfort, this top has a hip-length design and comes with regular three-quarter sleeves. This design choice ensures a flattering fit that accentuates your silhouette while providing ample coverage and freedom of movement. Furthermore, the keyhole neckline with strings adds a touch of sophistication and allows for adjustable styling, ensuring an ideal fit, with a touch of allure. ",
+      "imageUrl": "../assets/images/women-prod-1.jpg",
+      "thumbnailUrl": "../assets/images/women-prod-1.jpg",
+      "imgAltText": "Preneum Women Suare Cotton Top",
+      "maxRetailPrice": 2200,
+      "discountPercent": 40,
+      "category": "Women",
+      "discountApplicable": 14,
+      "added": "5/22/2022",
+      "quantity": 10,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "KIDZLIFE Baby Girls Angel Pari Dress",
+      "description": "Occasion: The Perfect set for Your Young Girls for Festival, Diwali, Wedding, Birthday Gift and All function wear. WHAT YOU GET: Introduces Fancy and Trendy Kids Party Wear Dresses For Boys. Ideal For All Special Occasions. Comfortable Cotton Blend Fabric, Regular Fit and Easy to Wash at Home.",
+      "imageUrl": "../assets/images/kid-prod-1.jpg",
+      "thumbnailUrl": "../assets/images/kid-prod-1.jpg",
+      "imgAltText": "KIDZLIFE Baby Girls Angel Pari Dress",
+      "maxRetailPrice": 5700,
+      "discountPercent": 30,
+      "category": "Kids",
+      "discountApplicable": 14,
+      "added": "2/20/2022",
+      "quantity": 10,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Girls Striped Square Neck Cotton Top",
+      "description": "Red and pink designer regular top, Floral print, Off-shoulder, long, bell sleeves, Knitted and woven crepe. WHAT YOU GET: Introduces Fancy and Trendy Kids Party Wear Dresses For Boys. Ideal For All Special Occasions. Comfortable Cotton Blend Fabric, Regular Fit and Easy to Wash at Home.",
+      "imageUrl": "../assets/images/kid-prod-3.jpg",
+      "thumbnailUrl": "../assets/images/kid-prod-3.jpg",
+      "imgAltText": "Girls Striped Square Neck Cotton Top",
+      "maxRetailPrice": 1600,
+      "discountPercent": 10,
+      "category": "Kids",
+      "discountApplicable": 14,
+      "added": "4/22/2020",
+      "quantity": 10,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Shree Ramkrishna Fab Short Sleeve Regular Fit",
+      "description": "tyle: Kaftan || Length: Medium || Sleeves: Short Sleeve Fit Type: Regular Fit || 1 Kaftan Top. Featuring a harmonious blend of style and comfort, this top has a hip-length design and comes with regular three-quarter sleeves. This design choice ensures a flattering fit that accentuates your silhouette while providing ample coverage and freedom of movement. Furthermore, the keyhole neckline with strings adds a touch of sophistication and allows for adjustable styling, ensuring an ideal fit, with a touch of allure. ",
+      "imageUrl": "../assets/images/women-prod-3.jpg",
+      "thumbnailUrl": "../assets/images/women-prod-3.jpg",
+      "imgAltText": "Shree Ramkrishna Fab",
+      "maxRetailPrice": 3200,
+      "discountPercent": 20,
+      "category": "Women",
+      "discountApplicable": 14,
+      "added": "4/8/2022",
+      "quantity": 10,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Louis Philippe Men Formal Trousers",
+      "description": "Olive green knitted formal, Regular fit, Mid-rise, Length: regular, Pattern: solid with 3 pockets. The wrinkle free premium black slim fit Permapress trousers by Louis Philippe will add an edge to your style at every formal occasion. Engineered for essential performance benefits, these machine washable trousers pair well with a classic shirt and derbies to make you stay ahead of the curve.",
+      "imageUrl": "../assets/images/men-prod-2.png",
+      "thumbnailUrl": "../assets/images/men-prod-2.png",
+      "imgAltText": "Louis Philippe Men Formal Trousers",
+      "maxRetailPrice": 1200,
+      "discountPercent": 10,
+      "category": "Men",
+      "discountApplicable": 14,
+      "added": "5/21/2023",
+      "quantity": 10,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cantabil Men Formal Trousers",
+      "description": "Woven formal, Regular fit, Length: regular Pattern: solid with 4 pockets. The wrinkle free premium black slim fit Permapress trousers by Louis Philippe will add an edge to your style at every formal occasion. Engineered for essential performance benefits, these machine washable trousers pair well with a classic shirt and derbies to make you stay ahead of the curve.",
+      "imageUrl": "../assets/images/men-prod-3.png",
+      "thumbnailUrl": "../assets/images/men-prod-3.png",
+      "imgAltText": "Cantabil Men Formal Trousers",
+      "maxRetailPrice": 2500,
+      "discountPercent": 40,
+      "category": "Men",
+      "discountApplicable": 14,
+      "added": "4/18/2023",
+      "quantity": 10,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Berrylush Pink Checked Uniform Dressing Skirt",
+      "description": "Boasting checkered and plaid details, uniform dressing is all about preppy silhouettes that are both stylish and trendy. Featuring a harmonious blend of style and comfort, this top has a hip-length design and comes with regular three-quarter sleeves. This design choice ensures a flattering fit that accentuates your silhouette while providing ample coverage and freedom of movement. Furthermore, the keyhole neckline with strings adds a touch of sophistication and allows for adjustable styling, ensuring an ideal fit, with a touch of allure. ",
+      "imageUrl": "../assets/images/women-prod-4.jpg",
+      "thumbnailUrl": "../assets/images/women-prod-4.jpg",
+      "imgAltText": "Berrylush Pink Checked Uniform Dressing Skirt",
+      "maxRetailPrice": 2200,
+      "discountPercent": 20,
+      "category": "Women",
+      "discountApplicable": 14,
+      "added": "8/28/2022",
+      "quantity": 10,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1003,
+          "name": "Micke",
+          "email": "Micke@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 101,
+      "name": "All"
+    },
+    {
+      "id": 102,
+      "name": "Men"
+    },
+    {
+      "id": 103,
+      "name": "Women"
+    },
+    {
+      "id": 104,
+      "name": "Kids"
+    }
+  ],
+  "contactData": {
+    "address": "16-11-20, Saleem Nagar, New Malakpet, Hyderabad, India",
+    "phone": [
+      "(91) 98228 35263"
+    ],
+    "email": "contact@sparkclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Spark Clothing",
+      "email": "info@sparkclothing.com",
+      "message": "Thank you. We will get back to you soon.",
+      "id": 1
+    },
+    {
+      "name": "shiva",
+      "email": "shiva.n@g.com",
+      "messageNote": "Test",
+      "id": 2
+    },
+    {
+      "name": "Sruthi",
+      "email": "s@w.com",
+      "messageNote": "testing",
+      "id": 3
+    }
+  ]
+}

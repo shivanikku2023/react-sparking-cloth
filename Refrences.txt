@@ -1,0 +1,39 @@
+// For Home page
+http://localhost:3000/products?_limit=3
+
+// For Product page
+http://localhost:3000/products
+
+// For Product details
+http://localhost:3000/products/1
+http://localhost:3000/products/2
+
+// For Product category
+http://localhost:3000/products?category=Men
+http://localhost:3000/products?category=Women
+http://localhost:3000/products?category=Kids
+
+// For Product sorting (Price wise)
+http://localhost:3000/products_sort=maxRetailPrice&_order=desc
+http://localhost:3000/products_sort=maxRetailPrice&_order=asc
+
+// For Product sorting (Category with price)
+http://localhost:3000/products?category=Men&_sort=maxRetailPrice&_order=desc
+http://localhost:3000/products?category=Women&_sort=maxRetailPrice&_order=desc
+http://localhost:3000/products?category=Kids&_sort=maxRetailPrice&_order=desc
+http://localhost:3000/products?category=Men&_sort=maxRetailPrice&_order=asc
+http://localhost:3000/products?category=Women&_sort=maxRetailPrice&_order=asc
+http://localhost:3000/products?category=Kids&_sort=maxRetailPrice&_order=asc
+
+MRP should be strike-through and display after discount price by using formula (2000x14/100)
+After discount price - 2000-280 = 1720
+
+How to take a build and submit the project?
+  1. Generate code coverage report
+      npm run test -- --coverage --watchAll
+  2. Generate build
+      npm run build
+  3. Zip your entire project without node_modules
+  4. rename the folder 'empid-yourname-spark-clothing-app.zip'
+  4. Upload in the given location
+  5. Send a mail to Revathy
